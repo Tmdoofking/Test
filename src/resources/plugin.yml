@@ -1,0 +1,13 @@
+name: PlayfuniEzcmd
+main: com.playfuni.PlayfuniEzcmd
+version: 1.0
+commands:
+  heal:
+    description: Heal yourself
+    usage: /heal
+  feed:
+    description: Feed yourself
+    usage: /feed
+  slay:
+    description: Slay yourself
+    usage: /slay
